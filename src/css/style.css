@@ -1,0 +1,281 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 80px;
+}
+
+.header_divverh {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 80px;
+   
+}
+
+
+.all{
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+}
+
+
+
+
+.vector-menu-content {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-right: 16px;
+    margin-top: 6px;
+    width: 670.8px;
+    height: 34.5px;
+}
+
+.tablverh {
+    display: inline-flex;
+    justify-content: flex-end;
+ 
+    flex-wrap: wrap;
+    padding-left: 160px;
+    height: 20px;
+}
+
+
+
+li {
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-bottom: 1.2px;
+    margin-left: 9px;
+    padding-top: 6px;
+    text-align: left;
+    list-style: none;
+}
+
+.li_icon{
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-bottom: 1.2px;
+    margin-left: 5px;
+    padding-top: 6px;
+    text-align: left;
+    list-style: none;
+}
+
+.li_niz{
+
+    margin-left: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 0;
+    padding-top: 16px;
+    background-color: #fff;
+
+    border-left: 1px solid;
+
+    border-image: linear-gradient(to top, rgb(167, 201, 252) 0%, #ffffff 100%) 1;
+}
+
+.li_nizzz{ 
+    
+    height: 100%;
+    margin-left: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 0;
+     padding-top: 16px;
+    
+    background:linear-gradient(white,rgb(236, 244, 255));
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to top, rgb(167, 201, 252) 0%, #ffffff 100%) 1;
+}
+
+.li_nizzzz{
+    height: 100%;
+    margin-left: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 0;
+    padding-top: 16px;
+    background:linear-gradient(white,rgb(236, 244, 255));
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to top, rgb(167, 201, 252) 0%, #ffffff 100%) 1;
+}
+
+
+
+
+
+
+.tablniz1 {
+    display: inline-flex;
+   
+    justify-content: flex-end;
+
+    margin-top: 0;
+    width: 580px;
+    height: 39px;
+
+}
+
+
+.tablniz2 {
+    display: inline-flex;
+    justify-content: flex-end;
+   
+    padding-left: 0;
+   
+    width: 236px;
+   
+}
+
+
+
+
+
+
+
+.verh_levo_kn{
+    display: inline-block;
+  
+    margin-left: 4px;
+    margin-top: 41px;
+    margin-bottom: -40px;
+    width: 160px;
+    height: 40px;
+}
+
+.verh_wrap{
+    width: 160px;
+    height: 39px;
+    
+
+    display: flex;
+    justify-content: flex-start;
+}
+
+.ttt{
+    font-size: 13px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 0;
+    padding-top: 0;
+
+    height: 0;
+    padding-right: 0;
+    padding-left: 0;
+
+   
+
+}
+
+.bbb{
+    font-size: 13px;
+    text-decoration: none; 
+    color: #0662cb;
+    cursor: pointer;
+
+}
+.bbb:hover { 
+    text-decoration: underline; 
+}
+
+.nnn{
+    font-size: 13px;
+    text-decoration: none; 
+    color: #000000;
+    cursor: pointer;
+
+} 
+
+
+
+
+
+
+a {
+   
+   text-decoration: none; 
+   color: #0662cb;
+   cursor: pointer;
+   
+}
+
+a:hover { 
+    text-decoration: underline; 
+}
+
+
+.aaa {
+    
+    text-decoration: none; 
+    color: #0662cb;
+    cursor: pointer;
+
+}
+.aaa:hover { 
+    text-decoration: underline; 
+}
+
+
+span {
+    font-style:normal;
+}
+
+.curs_text {
+    font-style: italic
+}
+
+.bold_tex {
+    font-weight: bold;
+}
+
+.serach_main{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    
+    width: 316px;
+    height: 28.7px;
+    margin-right: 16px;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+input[type="search"]{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    border-width: 1px;
+    
+    border-color:rgb(218, 218, 218);
+    
+    padding-left: 5.33px;
+    padding-right: 28px;
+    width: 316px;
+    height: 28.7px;
+    background-image: url(/src/icons/search.svg); 
+    background-repeat: no-repeat;
+    background-position-x: 292px;
+    background-position-y: 5px;
+    background-size: 15px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.oll{
+   
+    color: #ffffff00;
+}
+

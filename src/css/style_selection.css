@@ -1,0 +1,176 @@
+section{
+    padding: 20px 24px 24px 24px;
+    margin-top: -1px;
+    margin-left: 176px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-color: #0662cb;
+    border-image: linear-gradient(to top, rgb(167, 201, 252) 100%, #ffffff 100%) 1;
+}
+
+.tablec{
+    background-color: #f8f9fa;
+    float: right;
+    line-height: 1.2em;
+    width: 277px;
+    padding: 6px;
+    margin-left: 12.6px;
+    border: 1px solid;
+}
+
+.verhblock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nizhblock{
+    font-family: sans-serif;
+    font-size: 13px;
+    text-align: center;
+    width: 275px;
+    padding: 1px;
+    background-color: #cfe3ff;
+
+}
+
+.js{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    width: 275px;
+    padding: 1px;
+    background-color: #cfe3ff;
+}
+
+.imgjs{
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    margin-top: 4px;
+    width: 80px;
+}
+
+.allcol{
+    display:flex ;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 275px;
+    height: 100%;
+}
+
+.pcol{
+    margin-top: 3px;
+    display: flex;
+    flex-direction: row;
+}
+
+.pervzn{
+    display: flex;
+    font-family: sans-serif;
+    font-weight: bold;
+    justify-content: flex-start;
+    line-height: 1.5em;
+    font-size: 13px;
+    width: 82.52px;
+    padding: 1px;
+}
+
+.vtorzn{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: flex-start;
+    line-height: 1.5em;
+    font-size: 13px;
+    width: 189.22px;
+    padding: 1px;
+}
+
+
+h1{
+    display: block;
+    font-family: serif;
+    font-size: 28.8px;
+    font-weight: 400;
+    margin-bottom: 7.2px;
+    line-height: 1.375;
+    border-bottom: 1px solid;
+    border-color: rgb(190, 190, 190);
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    line-height: 1.6;
+}
+
+.per{
+    font-size: 12.88px;
+}
+
+.vtor{
+    
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: 17px;
+    margin-left: 22px;
+    line-height: 1.6;
+}
+
+.allll{
+    display: flex;
+}
+
+.wiwkiim{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    width: 160px;
+    margin-left: 18px;
+    margin-right: 8px;
+    margin-top: 3px;
+}
+
+.wikiimhhhg{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.pervstolb{
+    line-height: 0.75em;
+    padding-top: 4.8px;
+}
+
+.uchast{
+    font-family: sans-serif;
+    margin-top: 20px;
+    padding-bottom: 3px;
+    font-size: 12px;
+    margin-left: 9px;
+    color: #54595d;
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to left, rgb(255, 255, 255) 20px, rgb(179, 179, 179) 70%, rgb(255, 255, 255)) 1;
+
+}
+
+.hui{
+    margin-top: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+
+}
